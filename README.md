@@ -22,8 +22,7 @@
 <p> Путеводитель по Ченду. </p>
 <P><CENTER><IMG SRC="гифка.gif"></p></CENTER>
 <script src="https://yastatic.net/share2/share.js"></script>
-<CENTER><div class="ya-share2" data-curtain data-shape="round" 
-data-services="мессенджер, вконтакте,facebook,одноклассники"></div></CENTER>
+<CENTER><div class="ya-share2" data-curtain data-shape="round" data-services="мессенджер, вконтакте,facebook,одноклассники"></div></CENTER>
   
 </BODY>
 </HTML>

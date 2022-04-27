@@ -17,8 +17,8 @@
 </P></CENTER>
 <CENTER><P> и напишите мне письмо на <A HREF="mailto:user@usa.net"> User @usa.net </A>, что у Вас вышло. </P></CENTER>
 <p><CENTER><B> <I> Также вы можете посетить два созданных мною сайт. </I>
-<p> Обзор интернет ресурсов по Информационным технологиям.</p>
-<p> Путеводитель по Ченду. </p>
+<p> <A HREF="https://4556qwerrt.github.io/literate-lamp/">Обзор интернет ресурсов по Информационным технологиям.</a></p>
+  <p> <A HREF="https://4556qwerrt.github.io/legendary-disco/">Путеводитель по Ченду.</a> </p>
 <P><CENTER><IMG SRC="гифка.gif"></CENTER>
 
 <CENTER><div class="ya-share2" data-curtain data-shape="round" data-services="мессенджер, вконтакте,facebook,одноклассники"></div></CENTER>
